@@ -1,0 +1,21 @@
+.filter-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.filter-controls {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.filter-controls label {
+    font-weight: bold;
+}
+
+.filter-controls input[type="range"] {
+    width: 200px;
+}

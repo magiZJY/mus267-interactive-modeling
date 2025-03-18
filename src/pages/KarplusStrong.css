@@ -1,0 +1,9 @@
+.karplus-strong-page {
+    padding: 4rem;
+    padding-top: 8rem; /* below nav bar */
+}
+
+.karplus-strong-page .content {
+    margin-top: 6rem;
+    text-align: center;
+}
