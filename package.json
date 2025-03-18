@@ -1,5 +1,5 @@
 {
-    "name": "interactive-physical-modeling",
+    "name": "mus267-interactive-modeling",
     "version": "1.0.0",
     "description": "Interactive educational tool for physical modeling in music synthesis",
     "main": "src/index.js",
@@ -13,6 +13,7 @@
         "chart.js": "^4.4.8",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
+        "react-router-dom": "^7.3.0",
         "react-scripts": "^5.0.1",
         "web-vitals": "^2.1.4"
     },
